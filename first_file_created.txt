@@ -1,1 +1,4 @@
 First file content added in SMC
+
+
+modification : Second line added after creating two files "text2" and "text3" in the same folder
